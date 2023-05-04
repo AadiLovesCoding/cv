@@ -1,0 +1,21 @@
+body{
+  background-color: #eaf6f6;
+  font-family: cursive;
+  
+}
+h1{
+  color: #66bfbf;
+}
+h3{
+  color:darkgreen;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;    
+  border-color: darkgrey;
+  width: 10%;
+  border-width: 5px; 
+}
+
+
